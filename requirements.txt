@@ -3,6 +3,6 @@ bs4==0.0.1
 Flask==1.0.2
 html5lib==1.0.1
 line-bot-sdk==1.14.0
-lxml==4.4.0
+lxml==4.6.3
 gunicorn==19.7.1
 selenium==3.12.0
