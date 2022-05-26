@@ -1,4 +1,7 @@
-chatbot
+line chatbot
+
+透過line webhook 串接後端實踐自動天氣回報等資訊吧chatbot
+
 https://hackmd.io/@hbOd9tBCSaKv2iqP4yMAhQ/HkLgHZVcB
 ## flask
 * 用python 編寫的網頁light server
