@@ -6,7 +6,7 @@ This project integrates LINE, a popular messaging and communication app, with a 
 - Seamless LINE webhook integration
 - Automated weather notifications
 
-## flask
+## Flask
 * As a backend light server
 * execute command
 ```
