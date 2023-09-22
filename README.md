@@ -1,25 +1,27 @@
-line chatbot
+# Line weather chatbot
 
-透過line webhook 串接後端實踐自動天氣回報等資訊吧chatbot
+This project integrates LINE, a popular messaging and communication app, with a backend server to provide automated weather updates and other information. Stay informed with real-time weather reports effortlessly via LINE.
 
-https://hackmd.io/@hbOd9tBCSaKv2iqP4yMAhQ/HkLgHZVcB
+## Features
+- Seamless LINE webhook integration
+- Automated weather notifications
+
 ## flask
-* 用python 編寫的網頁light server
-* 執行指令
+* As a backend light server
+* execute command
 ```
 pytyon3 app.py runserver
 ```
 ![](https://i.imgur.com/BQPjQP8.png)
 
 
-## ngrok
-* ngrok: to temp internet domain
-* 提供暫時性網址可供連至本機的server  需指定port
+## Ngrok
+* Ngrok is a tunneling and reverse proxy service that exposes local servers to the internet securely for testing and development
 ![](https://i.imgur.com/L6yERnD.png)
 ![](https://i.imgur.com/h2jwFLY.png)
 
-## heroku
-heroku: A platform as a cloud that can run server
+## Heroku
+Heroku: Heroku is a cloud platform that simplifies app deployment, scaling, and management. It supports various programming languages and offers seamless integration.
 https://dashboard.heroku.com/apps
 * ![](https://i.imgur.com/FjaM7r9.png)
 * ![](https://i.imgur.com/VwBHVeA.png)
